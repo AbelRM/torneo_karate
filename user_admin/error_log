@@ -1,0 +1,2 @@
+[31-Jul-2021 10:25:22 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/siuuvupi/public_html/torneokarate/user_admin/index.php on line 43
+[31-Jul-2021 19:55:06 America/Lima] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/siuuvupi/public_html/torneokarate/user_admin/listado_torneos.php on line 43

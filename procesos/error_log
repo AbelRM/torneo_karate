@@ -1,0 +1,1 @@
+[31-Jul-2021 10:10:51 America/Lima] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/siuuvupi/public_html/torneokarate/procesos/login.php on line 36
